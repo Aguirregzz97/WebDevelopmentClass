@@ -56,3 +56,5 @@ setInterval(() => {
     let b = Math.round(255 * Math.random())
     h.style.color = 'rgb(' + r + ',' + g + ',' + b + ')'
 }, 1000)
+
+// yes
