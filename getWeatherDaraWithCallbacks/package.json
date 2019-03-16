@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "credentials": "^3.0.2",
+    "node-fetch": "^2.3.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.0"
+  }
+}
